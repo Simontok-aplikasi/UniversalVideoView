@@ -43,6 +43,7 @@ but providing more customization feature: fitXY  or keeping aspect ratio fullscr
 
             </FrameLayout>
 ```
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
 
   3. In your `onCreate` method, set the `UniversalMediaController` to the `UniversalVideoView` and implements the `UniversalVideoView.VideoViewCallback` Callback.
 ```java
